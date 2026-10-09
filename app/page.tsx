@@ -33,7 +33,7 @@ export default function Home() {
           WebkitTextFillColor: "transparent",
         }}
       >
-        Bienvenidos a mi primer pagina web
+        Bienvenido SO - Sistemas Operativos
       </h1>
 
       <p className="flotar text-sm text-white/50 sm:text-base">
